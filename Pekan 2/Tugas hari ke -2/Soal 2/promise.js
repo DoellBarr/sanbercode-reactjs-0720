@@ -13,5 +13,5 @@ function readBooksPromise (time, book) {
     }, book.timeSpent)
   })
 }
- 
+
 module.exports = readBooksPromise
